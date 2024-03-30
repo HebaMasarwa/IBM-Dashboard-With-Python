@@ -17,3 +17,16 @@ This project focuses on replicating a specific IBM dashboard using the Python li
 - **Matplotlib**: For generating static graphs.
 - **Bokeh**: For creating interactive elements and layouts.
 
+## Project Files
+
+- **`ibm_data.csv`**: The dataset used in the dashboard's visualizations. It contains all the necessary metrics and dimensions for the IBM data analysis.
+
+- **`ibm_logo.png`**: An image file of the IBM logo used within the dashboard.
+
+- **`main.py`**: The main script for constructing the dashboard.
+
+- **`IBM finalResult`**: The desired output is a PDF file; this is the dashboard we aimed to recreate using Python. (The original dashboard was made using Tableau.)
+
+- **`IBM_final_results.html`**: The final output, a HTML file that represents the replicated dashboard. 
+
+
