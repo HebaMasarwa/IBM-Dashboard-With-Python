@@ -27,6 +27,6 @@ This project focuses on replicating a specific IBM dashboard using the Python li
 
 - **`IBM finalResult`**: The desired output is a PDF file; this is the dashboard we aimed to recreate using Python. (The original dashboard was made using Tableau.)
 
-- **`IBM_final_results.html`**: The final output, a HTML file that represents the replicated dashboard. 
+- **`IBM Dashboard Final`**: Due to the HTML file of the dashboard being too large for GitHub upload, the final output is provided as a PDF file. Nonetheless, the original, interactive HTML dashboard can be accessed by executing the `main.py` file.
 
 
