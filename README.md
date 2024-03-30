@@ -19,9 +19,9 @@ This project focuses on replicating a specific IBM dashboard using the Python li
 
 ## Project Files
 
-- **`ibm_data.csv`**: The dataset used in the dashboard's visualizations. It contains all the necessary metrics and dimensions for the IBM data analysis.
+- **`IBM_data.csv`**: The dataset used in the dashboard's visualizations. It contains all the necessary metrics and dimensions for the IBM data analysis.
 
-- **`ibm_logo.png`**: An image file of the IBM logo used within the dashboard.
+- **`IBM_logo.png`**: An image file of the IBM logo used within the dashboard.
 
 - **`main.py`**: The main script for constructing the dashboard.
 
