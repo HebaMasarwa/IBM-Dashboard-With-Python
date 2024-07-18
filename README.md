@@ -29,4 +29,7 @@ This project focuses on replicating a specific IBM dashboard using the Python li
 
 - **`IBM Dashboard Final`**: Due to the HTML file of the dashboard being too large for GitHub upload, the final output is provided as a PDF file. Nonetheless, the original, interactive HTML dashboard can be accessed by executing the `main.py` file.
 
+- **`requirements.txt`**: A file listing all the Python libraries needed to run the project.
+
+
 
