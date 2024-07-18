@@ -1,0 +1,7 @@
+Python libraries used in this project / required for it: 
+numpy
+pandas
+squarify
+pillow
+bokeh
+matplotlib
